@@ -31,9 +31,8 @@
 ## 🚀 Featured Projects
 
 - [🥚 OOMlet](https://github.com/trcjr/oomlet) — Infrastructure quality testing and observability toolkit
+- [🐕 realdoglaw.com](https://realdoglaw.com) — Satirical vanity domain and web experimentation sandbox
 - [📮 ephemal.email](https://ephemal.email) — Lightweight, privacy-first temporary email service with raw message inspection
-- [🧊 SOPSicle](https://sopsicle.com) — AI-powered Standard Operating Procedures management platform with visual process builder and collaboration tools
-
 ---
 
 ## 📊 GitHub Stats
