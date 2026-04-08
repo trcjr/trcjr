@@ -61,4 +61,17 @@
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/489205)  
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white)](https://mastodon.sdf.org/@trcjr)
 
+---
+## Donations
+
+### Crypto
+
+- BTC: bc1qvhay5salwnyey2cnel9xf8tkejqr79un9ew2g2
+- BTC (Lightning): alonemadam426@walletofsatoshi.com
+- ETH / EVM (ETH, Base, Arbitrum, etc): 0xf1d140F26f23C82D6Ef58E9F3892e45ad1BC4E4b
+- BCH2 (Bitcoin Cash II): bitcoincashii:qzc5qscxdvkw9974fv0hddx6zpdwczat9yz8rgm7df
+- USDC (ERC20 - Ethereum mainnet): 0xf1d140F26f23C82D6Ef58E9F3892e45ad1BC4E4b
+
+Donations do not grant special privileges or influence over any projects.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
