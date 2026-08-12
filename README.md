@@ -31,6 +31,7 @@
 ## 🚀 Featured Projects
 
 - [🥚 OOMlet](https://github.com/trcjr/oomlet) — Infrastructure quality testing and observability toolkit
+- [♾️ unchanged.fyi](https://unchanged.fyi) — Small internet art projects that document outcomes without pretending to improve them
 - [🐕 realdoglaw.com](https://realdoglaw.com) — Satirical vanity domain and web experimentation sandbox
 - [📮 ephemal.email](https://ephemal.email) — Lightweight, privacy-first temporary email service with raw message inspection
 ---
